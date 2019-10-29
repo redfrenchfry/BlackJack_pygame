@@ -1,2 +1,2 @@
 # BlackJack_pygame
-Black Jack made with Python and 
+Black Jack made with Python and Pygame
